@@ -1,7 +1,7 @@
 ﻿using CRSim.Core.Abstractions;
 using CRSim.Core.Attributes;
-using CRSim.ExamplePlugin.ViewModels;
-using CRSim.ExamplePlugin.Views;
+using Guangyuan.PrimaryScreen.ViewModels;
+using Guangyuan.PrimaryScreen.Views;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 

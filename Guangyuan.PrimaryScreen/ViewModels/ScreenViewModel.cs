@@ -1,7 +1,7 @@
 ﻿using CRSim.Core.Models;
 using CRSim.Core.Abstractions;
 using CRSim.ScreenSimulator.ViewModels;
-namespace CRSim.ExamplePlugin.ViewModels
+namespace Guangyuan.PrimaryScreen.ViewModels
 {
     public class ScreenViewModel : BaseScreenViewModel
     {

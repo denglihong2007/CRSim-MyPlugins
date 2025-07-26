@@ -1,7 +1,7 @@
 ﻿
-using CRSim.ExamplePlugin.ViewModels;
+using Guangyuan.PrimaryScreen.ViewModels;
 using System.Windows.Controls;
-namespace CRSim.ExamplePlugin.Views
+namespace Guangyuan.PrimaryScreen.Views
 {
     public partial class ScreenView : Page
     {
