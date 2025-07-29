@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "Yakeshi.PlatformScreen.dll",
+    "name": "牙克石站站台看板",
+    "id": "Yakeshi.PlatformScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "wxl0430",
+    "type": "ScreenStyle",
+    "description": "牙克石站站台看板，由旧版本批量转换。"
+}

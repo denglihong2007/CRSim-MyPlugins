@@ -1,0 +1,10 @@
+{
+    "parameters": [
+        "station",
+        "text",
+        "video",
+        "platform"
+    ],
+    "region": "徐州",
+    "type": "站台屏"
+}

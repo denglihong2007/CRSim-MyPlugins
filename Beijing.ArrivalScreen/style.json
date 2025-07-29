@@ -1,0 +1,8 @@
+{
+    "parameters": [
+        "station",
+        "platform"
+    ],
+    "region": "北京",
+    "type": "走廊到达屏"
+}

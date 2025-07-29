@@ -1,6 +1,6 @@
-﻿using CRSim.Core.Models;
-using CRSim.Core.Abstractions;
 using CRSim.ScreenSimulator.ViewModels;
+using CRSim.Core.Abstractions;
+using CRSim.Core.Models;
 namespace Guangyuan.PrimaryScreen.ViewModels
 {
     public class ScreenViewModel : BaseScreenViewModel

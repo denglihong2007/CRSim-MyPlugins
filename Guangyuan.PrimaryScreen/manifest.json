@@ -1,11 +1,11 @@
 {
-	"entranceAssembly": "Guangyuan.PrimaryScreen.dll",
-	"name": "广元站主要看版",
-	"id": "Guangyuan.PrimaryScreen",
-	"url": "https://github.com/denglihong2007/CRSim-MyPlugins",
-	"version": "0.0.0.0",
-	"apiVersion": "3.0.0.0",
-	"author": "电排骨",
-	"type": "ScreenStyle",
-	"description": "位于广元站车站大厅的大屏幕，欢迎来女皇故里旅游！"
+    "entranceAssembly": "Guangyuan.PrimaryScreen.dll",
+    "name": "广元站主要看板",
+    "id": "Guangyuan.PrimaryScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "剑门蜀道，女皇故里，大美广元欢迎您！"
 }

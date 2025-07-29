@@ -1,0 +1,9 @@
+{
+    "parameters": [
+        "station",
+        "platform",
+        "location"
+    ],
+    "region": "绵阳",
+    "type": "站台屏"
+}

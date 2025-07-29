@@ -1,0 +1,9 @@
+{
+    "parameters": [
+        "station",
+        "platform",
+        "location"
+    ],
+    "region": "大庆",
+    "type": "走廊出发屏"
+}

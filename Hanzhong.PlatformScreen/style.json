@@ -1,0 +1,9 @@
+{
+    "parameters": [
+        "station",
+        "platform",
+        "text"
+    ],
+    "region": "汉中",
+    "type": "站台屏"
+}

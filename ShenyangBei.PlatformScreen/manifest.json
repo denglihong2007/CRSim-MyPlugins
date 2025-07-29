@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "ShenyangBei.PlatformScreen.dll",
+    "name": "沈阳北站站台看板",
+    "id": "ShenyangBei.PlatformScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "沈阳北站站台看板，由旧版本批量转换。"
+}

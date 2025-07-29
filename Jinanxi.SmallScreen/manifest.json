@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "Jinanxi.SmallScreen.dll",
+    "name": "济南西站小屏看板",
+    "id": "Jinanxi.SmallScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "wxl0430",
+    "type": "ScreenStyle",
+    "description": "济南西站小屏看板，由旧版本批量转换。"
+}

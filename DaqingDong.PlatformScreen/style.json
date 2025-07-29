@@ -1,0 +1,9 @@
+{
+    "parameters": [
+        "station",
+        "platform",
+        "location"
+    ],
+    "region": "大庆",
+    "type": "站台屏"
+}

@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "TianjinMetro.PlatformScreen.dll",
+    "name": "天津地铁站台看板",
+    "id": "TianjinMetro.PlatformScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "天津地铁站台看板，由旧版本批量转换。"
+}

@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "Fuzhou.TicketCheckScreen.dll",
+    "name": "福州站检票口看板",
+    "id": "Fuzhou.TicketCheckScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "福州站检票口看板，由旧版本批量转换。"
+}

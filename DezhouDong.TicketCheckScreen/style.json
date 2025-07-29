@@ -1,0 +1,8 @@
+{
+    "parameters": [
+        "station",
+        "ticketCheck"
+    ],
+    "region": "德州",
+    "type": "检票口屏"
+}

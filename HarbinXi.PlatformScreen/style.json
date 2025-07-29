@@ -1,0 +1,10 @@
+{
+    "parameters": [
+        "station",
+        "platform",
+        "location",
+        "text"
+    ],
+    "region": "哈尔滨",
+    "type": "站台屏"
+}

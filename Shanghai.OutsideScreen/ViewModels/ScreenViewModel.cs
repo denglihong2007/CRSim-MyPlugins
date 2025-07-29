@@ -1,0 +1,16 @@
+using CRSim.ScreenSimulator.ViewModels;
+using CRSim.Core.Abstractions;
+using CRSim.Core.Models;
+namespace Shanghai.OutsideScreen.ViewModels
+{
+    public class ScreenViewModel : BaseScreenViewModel
+    {
+        public ScreenViewModel(ITimeService timeService, ISettingsService settingsService)
+            : base(timeService, settingsService)
+        {
+            ItemsPerPage = 9;
+            ScreenCount = 1;
+            StationType = StationType.Departure;
+        }
+    }
+}

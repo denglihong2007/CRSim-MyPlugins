@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "Harbin.PrimaryScreen.dll",
+    "name": "哈尔滨站主要看板",
+    "id": "Harbin.PrimaryScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "哈尔滨站主要看板，由旧版本批量转换。"
+}

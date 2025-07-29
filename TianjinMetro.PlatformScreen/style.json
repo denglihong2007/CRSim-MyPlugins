@@ -1,0 +1,10 @@
+{
+    "parameters": [
+        "station",
+        "text",
+        "video",
+        "platform"
+    ],
+    "region": "天津",
+    "type": "站台屏"
+}

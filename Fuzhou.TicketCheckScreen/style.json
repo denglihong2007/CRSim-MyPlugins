@@ -1,0 +1,9 @@
+{
+    "parameters": [
+        "station",
+        "ticketCheck",
+        "text"
+    ],
+    "region": "福州",
+    "type": "检票口屏"
+}

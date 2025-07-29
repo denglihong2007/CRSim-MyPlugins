@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "BeijingNan.PrimaryPlatformScreen.dll",
+    "name": "北京南站站台主要看板",
+    "id": "BeijingNan.PrimaryPlatformScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "北京南站站台主要看板，由旧版本批量转换。"
+}

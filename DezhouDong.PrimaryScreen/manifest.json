@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "DezhouDong.PrimaryScreen.dll",
+    "name": "德州东站主要看板",
+    "id": "DezhouDong.PrimaryScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "wxl0430",
+    "type": "ScreenStyle",
+    "description": "德州东站主要看板，由旧版本批量转换。"
+}

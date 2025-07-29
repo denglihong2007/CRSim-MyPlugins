@@ -1,5 +1,4 @@
-﻿
-using Guangyuan.PrimaryScreen.ViewModels;
+﻿using Guangyuan.PrimaryScreen.ViewModels;
 using System.Windows.Controls;
 namespace Guangyuan.PrimaryScreen.Views
 {

@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "DaqingDong.ConcourseBridgeScreen.dll",
+    "name": "大庆东站廊桥看板",
+    "id": "DaqingDong.ConcourseBridgeScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "wxl0430",
+    "type": "ScreenStyle",
+    "description": "大庆东站廊桥看板，由旧版本批量转换。"
+}

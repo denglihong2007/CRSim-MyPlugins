@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "Hanzhong.PlatformScreen.dll",
+    "name": "汉中站站台看板",
+    "id": "Hanzhong.PlatformScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "汉中站站台看板，由旧版本批量转换。"
+}

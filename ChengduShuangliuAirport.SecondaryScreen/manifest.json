@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "ChengduShuangliuAirport.SecondaryScreen.dll",
+    "name": "成都双流机场次要看板",
+    "id": "ChengduShuangliuAirport.SecondaryScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "成都双流机场次要看板，由旧版本批量转换。"
+}

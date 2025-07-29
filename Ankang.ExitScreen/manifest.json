@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "Ankang.ExitScreen.dll",
+    "name": "安康站出站口看板",
+    "id": "Ankang.ExitScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "电排骨",
+    "type": "ScreenStyle",
+    "description": "安康站出站口看板，由旧版本批量转换。"
+}

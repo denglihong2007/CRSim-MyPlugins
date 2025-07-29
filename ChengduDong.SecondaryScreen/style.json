@@ -1,0 +1,8 @@
+{
+    "parameters": [
+        "station",
+        "text"
+    ],
+    "region": "成都",
+    "type": "车站大屏"
+}

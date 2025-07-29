@@ -1,0 +1,11 @@
+{
+    "entranceAssembly": "BeijingNan.TicketCheckScreen.dll",
+    "name": "北京南站检票口看板",
+    "id": "BeijingNan.TicketCheckScreen",
+    "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+    "version": "0.0.0.0",
+    "apiVersion": "3.0.0.0",
+    "author": "wxl0430",
+    "type": "ScreenStyle",
+    "description": "北京南站检票口看板，由旧版本批量转换。"
+}

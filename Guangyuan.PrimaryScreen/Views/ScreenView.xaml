@@ -30,7 +30,7 @@
         <converters:DateTimeToStringConverter x:Key="DateTimeToStringTimeConverter" Format="HH:mm:ss" />
         <converters:DateTimeToStringConverter x:Key="DateTimeToStringDateConverter" Format="yyyy/MM/dd" />
         <converters:TrainStateConverter x:Key="TrainStateConverter" WaitingText="正点"/>
-    </Page.Resources> 
+    </Page.Resources>
     <StackPanel Orientation="Horizontal">
         <views:BaseDataGrid ItemsSource="{Binding ScreenA}" RowHeight="28" Foreground="#D75B41" FontWeight="Bold">
             <DataGrid.Columns>
