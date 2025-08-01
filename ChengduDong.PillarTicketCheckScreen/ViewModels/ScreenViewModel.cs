@@ -27,7 +27,7 @@ namespace ChengduDong.PillarTicketCheckScreen.ViewModels
                 {
                     return;
                 }
-                var now = _timeService.GetDateTimeNow();
+                var now = TimeService.GetDateTimeNow();
                 var departureTime = TrainInfo[0].DepartureTime!.Value;
 
                 TimeSpan checkInStartOffset = TrainInfo[0].ArrivalTime is DateTime

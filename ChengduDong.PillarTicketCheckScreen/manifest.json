@@ -3,7 +3,7 @@
     "name": "成都东站检票口立柱看板",
     "id": "ChengduDong.PillarTicketCheckScreen",
     "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
-    "version": "0.0.0.0",
+    "version": "0.0.0.1",
     "apiVersion": "3.0.0.0",
     "author": "电排骨",
     "type": "ScreenStyle",

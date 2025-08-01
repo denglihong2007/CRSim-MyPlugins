@@ -13,10 +13,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="CRSim.Core" Version="2.3.103.0">
+		<PackageReference Include="CRSim.Core" Version="2.3.106">
 			<ExcludeAssets>runtime; native</ExcludeAssets>
 		</PackageReference>
-		<PackageReference Include="CRSim.ScreenSimulator" Version="2.3.103">
+		<PackageReference Include="CRSim.ScreenSimulator" Version="2.3.106">
 			<ExcludeAssets>runtime; native</ExcludeAssets>
 		</PackageReference>
 	</ItemGroup>
