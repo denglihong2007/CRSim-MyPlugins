@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuzhouMetro.PlatformScreen"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yakeshi.PlatformScreen", "Yakeshi.PlatformScreen\Yakeshi.PlatformScreen.csproj", "{852D8F45-D834-4715-B76A-FBADAB6291F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shinjuku.TicketCheckScreen", "Shinjuku.TicketCheckScreen\Shinjuku.TicketCheckScreen.csproj", "{B2B958E2-6003-4F58-AF4A-918C7613630E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{852D8F45-D834-4715-B76A-FBADAB6291F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{852D8F45-D834-4715-B76A-FBADAB6291F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{852D8F45-D834-4715-B76A-FBADAB6291F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B958E2-6003-4F58-AF4A-918C7613630E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B958E2-6003-4F58-AF4A-918C7613630E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B958E2-6003-4F58-AF4A-918C7613630E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B958E2-6003-4F58-AF4A-918C7613630E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

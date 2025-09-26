@@ -1,0 +1,8 @@
+{
+  "parameters": [
+    "station",
+    "ticketCheck"
+  ],
+  "region": "新宿",
+  "type": "检票口屏"
+}
