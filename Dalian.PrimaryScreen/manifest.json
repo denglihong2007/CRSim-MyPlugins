@@ -1,0 +1,11 @@
+{
+  "entranceAssembly": "Dalian.PrimaryScreen.dll",
+  "name": "大连站主要看板",
+  "id": "Dalian.PrimaryScreen",
+  "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
+  "version": "0.0.0.0",
+  "apiVersion": "3.0.0.0",
+  "author": "电排骨",
+  "type": "ScreenStyle",
+  "description": "大连站主要看板。"
+}

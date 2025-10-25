@@ -1,11 +1,11 @@
 using CRSim.Core.Abstractions;
         using CRSim.Core.Attributes;
-        using Niuzhou.PrimaryScreen.ViewModels;
-        using Niuzhou.PrimaryScreen.Views;
+        using Dalian.PrimaryScreen.ViewModels;
+        using Dalian.PrimaryScreen.Views;
         using Microsoft.Extensions.DependencyInjection;
         using Microsoft.Extensions.Hosting;
 
-        namespace Niuzhou.PrimaryScreen
+        namespace Dalian.PrimaryScreen
         {
             [PluginEntrance]
             public class Plugin : PluginBase

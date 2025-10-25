@@ -1,0 +1,8 @@
+{
+    "parameters": [
+        "station",
+        "text"
+    ],
+    "region": "淮北",
+    "type": "车站大屏"
+}

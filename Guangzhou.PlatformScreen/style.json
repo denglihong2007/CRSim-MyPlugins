@@ -1,0 +1,9 @@
+{
+    "parameters": [
+        "station",
+        "platform",
+        "text"
+    ],
+    "region": "广州",
+    "type": "站台屏"
+}

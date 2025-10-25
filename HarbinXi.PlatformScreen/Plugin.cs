@@ -1,11 +1,11 @@
 using CRSim.Core.Abstractions;
         using CRSim.Core.Attributes;
-        using HarbinXi.PlatformScreen.ViewModels;
-        using HarbinXi.PlatformScreen.Views;
+        using Guangzhou.PlatformScreen.ViewModels;
+        using Guangzhou.PlatformScreen.Views;
         using Microsoft.Extensions.DependencyInjection;
         using Microsoft.Extensions.Hosting;
 
-        namespace HarbinXi.PlatformScreen
+        namespace Guangzhou.PlatformScreen
         {
             [PluginEntrance]
             public class Plugin : PluginBase

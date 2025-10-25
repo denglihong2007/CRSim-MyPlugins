@@ -3,9 +3,9 @@
     "name": "昆明长水机场主要看板",
     "id": "KunmingChangshuiAirport.PrimaryScreen",
     "url": "https://github.com/denglihong2007/CRSim-MyPlugins",
-    "version": "0.0.0.0",
+    "version": "0.0.0.1",
     "apiVersion": "3.0.0.0",
     "author": "电排骨",
     "type": "ScreenStyle",
-    "description": "昆明长水机场主要看板，由旧版本批量转换。"
+    "description": "昆明长水机场主要看板，由旧版本批量转换。目前只显示英文。"
 }

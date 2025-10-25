@@ -96,7 +96,7 @@
                     </DataGridTemplateColumn.HeaderTemplate>
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
-                            <Border Background="Yellow" Width="23" Height="23">
+                            <Border Background="Yellow" MinWidth="23" Height="23" >
                                 <TextBlock Text="{Binding TicketChecks,Converter={StaticResource ListToStringConverter}}" Foreground="Black"
                                            VerticalAlignment="Center" TextAlignment="Center"/>
                             </Border>

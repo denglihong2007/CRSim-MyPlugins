@@ -1,7 +1,7 @@
-﻿using Guangzhou.PlatformScreen.ViewModels;
+﻿using Huaibei.PrimaryScreen.ViewModels;
 using System.Windows.Controls;
 
-namespace Guangzhou.PlatformScreen.Views
+namespace Huaibei.PrimaryScreen.Views
 {
     public partial class ScreenView : Page
     {
