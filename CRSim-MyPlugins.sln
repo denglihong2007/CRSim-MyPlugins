@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11123.170 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ankang.ExitScreen", "Ankang.ExitScreen\Ankang.ExitScreen.csproj", "{BD687E77-32C6-4803-8BEC-359EB7DA0A5B}"
 EndProject
@@ -78,6 +78,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dalian.PrimaryScreen", "Dalian.PrimaryScreen\Dalian.PrimaryScreen.csproj", "{B06FFDB0-8C46-474B-8DDE-42F057995C47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huaibei.PrimaryScreen", "Huaibei.PrimaryScreen\Huaibei.PrimaryScreen.csproj", "{C49CEC68-75B8-4456-8F93-EFEAB889D492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanningDong.PrimaryScreen", "NanningDong.PrimaryScreen\NanningDong.PrimaryScreen.csproj", "{775E5B61-1084-448D-7681-6517AE244FAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{C49CEC68-75B8-4456-8F93-EFEAB889D492}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C49CEC68-75B8-4456-8F93-EFEAB889D492}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C49CEC68-75B8-4456-8F93-EFEAB889D492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775E5B61-1084-448D-7681-6517AE244FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775E5B61-1084-448D-7681-6517AE244FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775E5B61-1084-448D-7681-6517AE244FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775E5B61-1084-448D-7681-6517AE244FAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
