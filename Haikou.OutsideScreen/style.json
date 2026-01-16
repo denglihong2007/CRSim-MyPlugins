@@ -1,0 +1,8 @@
+{
+    "parameters": [
+        "station",
+        "text"
+    ],
+    "region": "海口",
+    "type": "车站大屏"
+}

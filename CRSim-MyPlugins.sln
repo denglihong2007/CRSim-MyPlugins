@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huaibei.PrimaryScreen", "Hu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NanningDong.PrimaryScreen", "NanningDong.PrimaryScreen\NanningDong.PrimaryScreen.csproj", "{775E5B61-1084-448D-7681-6517AE244FAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haikou.OutsideScreen", "Haikou.OutsideScreen\Haikou.OutsideScreen.csproj", "{EEEDC0D0-6915-DE27-94C8-4883755DC714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{775E5B61-1084-448D-7681-6517AE244FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{775E5B61-1084-448D-7681-6517AE244FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{775E5B61-1084-448D-7681-6517AE244FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEDC0D0-6915-DE27-94C8-4883755DC714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEDC0D0-6915-DE27-94C8-4883755DC714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEDC0D0-6915-DE27-94C8-4883755DC714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEDC0D0-6915-DE27-94C8-4883755DC714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
